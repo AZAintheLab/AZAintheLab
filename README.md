@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AZAintheLab
 - 👀 I’m interested in social computations, machine learning for behavioral and neural analysis, decoding Functional Encoding Ensembles
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me email aza.allsop@yale.edu
 
